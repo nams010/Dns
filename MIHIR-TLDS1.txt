@@ -1,0 +1,6 @@
+qtsdatacenter.aws.com  128.64.3.2  A
+www.facebook.com   192.64.4.2  A
+www.youtube.com 172.217.27.206 A
+www.ibm.com 64.42.3.4 A
+www.google.com  8.6.4.2 A
+grep.cs.rutgers.edu   -  NS

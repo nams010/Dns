@@ -1,0 +1,5 @@
+www.facebook.com 192.64.4.2 A
+www.youtube.com - Error:HOST NOT FOUND
+www.mit.edu 8.7.45.2 A
+www.google.com 8.6.4.2 A
+www.google.com - No servers matching key

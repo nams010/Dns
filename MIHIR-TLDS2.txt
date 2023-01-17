@@ -1,0 +1,6 @@
+qtsdatacenter.aws.edu   128.60.3.2  A
+www.rutgers.com   192.64.4.4  A
+www.facebook.edu 192.64.4.5 A
+grep.cs.princeton.edu 182.49.3.2 A
+www.harvard.edu 64.42.3.4 A
+www.mit.edu  8.7.45.2 A
